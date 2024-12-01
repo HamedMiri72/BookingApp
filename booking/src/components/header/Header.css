@@ -115,3 +115,7 @@
     background-color: white;
     border-radius: 3px;
 }
+
+.optionCounterButton:disabled{
+    cursor: not-allowed;
+}
